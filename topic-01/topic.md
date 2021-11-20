@@ -1,3 +1,3 @@
-# Simple Units
+# Web Basics - HTML und CSS
 
-This topic has 2 units - each unit has lectures + lab
+Hier geht es um HTML und CSS
