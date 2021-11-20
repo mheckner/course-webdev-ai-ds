@@ -1,3 +1,3 @@
-# Web Basics - HTML und CSS
+# Kursüberblick
 
-Hier geht es um HTML und CSS
+Überblick über Inhalte und Kursablauf.
