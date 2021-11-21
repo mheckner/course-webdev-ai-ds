@@ -1,3 +1,3 @@
-# CSS Layouts
+# 02 - CSS Layouts
 
-Hier geht es um Layouts mit CSS
+CSS Layouts

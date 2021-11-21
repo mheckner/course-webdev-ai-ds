@@ -1,3 +1,3 @@
-# JavaScript Objekte und Patterns
+# 05 - JavaScript Objekte und Patterns
 
 JavaScript Objekte und Patterns

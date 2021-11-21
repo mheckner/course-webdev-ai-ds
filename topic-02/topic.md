@@ -1,3 +1,3 @@
-# Web Basics - HTML und CSS
+# 01 - Web Basics - HTML und CSS
 
-Hier geht es um HTML und CSS
+Web Basics - HTML und CSS
