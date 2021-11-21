@@ -1,3 +1,3 @@
-# Units with Videos
+# CSS Layouts
 
-This topic has 2 units - these have video resources
+Hier geht es um Layouts mit CSS

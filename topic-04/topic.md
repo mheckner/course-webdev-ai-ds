@@ -1,3 +1,3 @@
-# Units with Videos +
+# Responsive Webdesign und Bootstrap
 
-This topic has 2 units - these have archives and links to zoom and podcasts
+Responsive Webdesign und Bootstrap
