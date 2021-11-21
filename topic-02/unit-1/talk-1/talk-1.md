@@ -1,3 +1,3 @@
-Lecture 1
+Foliensatz - Web Basics - HTML und CSS
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+Eine Einführung in HTML und CSS
