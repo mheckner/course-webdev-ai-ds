@@ -1,3 +1,3 @@
-2a: Javascript Arrays
+2: Bootstrap und JavaScript Basics
 
-Exploring Javascript arrays in detail
+Einfaches Erstellen von schönen Seiten mit Bootstrap und erste Funktionalität mit Javascript.

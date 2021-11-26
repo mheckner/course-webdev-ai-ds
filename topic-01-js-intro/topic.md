@@ -1,3 +1,3 @@
-1: Introducing Javascript
+1: HTML und CSS
 
-An introduction to the very basics of the Javascript Language
+Wie man Inhalt erstellt und diesen schöner macht.
