@@ -1,18 +1,18 @@
-# ICT Skills 1
+# Medieninformatik - KI DS
 
-This course is an introduction to web application development in using Javascript & Node.js using Exppress, Handlebars and supporing libraries. It is part of the Higher Diplima in Computer Science at WIT:
+Dieser Kurs ist eine Einleitung in die moderne Webentwicklung mit HTML, CSS und Javascript.
+Mithilfe von NodeJS, Express und Handlebars werden Sie an verschiedenen Projekten arbeiten und das Gelernte final in einem großen Projekt umsetzen.
 
-- <https://www.wit.ie/ictskills>
+Die Vorlesungen sind auf 7 Wochen unterteilt:
 
-The course is structured as 6 weekly sessions:
-
-Week  | Topic
+Woche  | Thema
 ------ | -------
-1 | Introducing Javascript
-2 | Javascript Arrays
-3 | Web Applications
-4 | Templates & Routes
-5 | Forms
+1 | HTML und CSS
+2 | Bootstrap und JavaScript Basics
+3 | Javascript - Weiterführend
+4 | NodeJS und Express - Datenbanken und Template Engines
+5 | Routing und Formulare
 6 | Sessions
+7 | Tests und Deployment
 
-Please contact edeleastar@wit.ie for further information.
+Kontakt: markus.heckner@st.oth-regensburg.de
