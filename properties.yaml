@@ -1,5 +1,19 @@
-slack: https://slack.com
-moodle: https://moodle.wit.ie
-youtube: https://www.youtube.com/
-zoom: https://zoom.us/
-credits: Markus Heckner, OTH Regensburg
+slack          : https://wit-hdip-comp-sci-21.slack.com/archives/C023N47HEJ1
+moodle         : https://moodle.wit.ie/course/view.php?id=176625
+youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyBGowQ4W5vu67WR7YiPnsI6
+parent         : course/wit-hdip-comp-sci-2021.netlify.app
+credits        : Eamonn de Leastar, WIT Computing
+auth           : 3
+ignorepin      : 2125
+icon :
+  type: fa-solid:code-branch
+  color: FFD601
+ignore : 
+ # - topic--assignments
+ # - topic-01-js-intro
+ # - topic-02a-arrays
+ # - topic-02b-glitch-overview
+ # - topic-03-web-apps
+ # - topic-04-app-templates+views
+ # - topic-05-app-models
+ # - topic-06-sessions

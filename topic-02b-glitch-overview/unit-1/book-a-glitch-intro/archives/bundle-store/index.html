@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bundle APP Store</title>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.4/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.4/dist/semantic.min.js"></script>
+  </head>
+  <body>
+    <img src="images/banner.png" class="ui centered massive image">
+    <section class="ui container">
+      <header class="ui stacked segment">
+        <h1>Welcome to the App Bundle Store</h1>
+      </header>
+      <div class="ui grid">
+        <div class="ui twelve wide column">
+          <nav>
+            <ul class="ui three item tabular menu">
+              <li id="home" class="ui item"><a href="index.html">Home</a></li>
+              <li id="apps" class="ui item"><a href="apps.html">Apps</a></li>
+              <li id="directions" class="ui item"><a href="directions.html">Directions</a></li>
+            </ul>
+          </nav>
+          <script>
+            document.querySelector("#home").classList.add("active")
+          </script>
+          <main>
+            <article class="ui basic segment">
+              <p>
+                This store brings you <em> great app bundles </em> week after week. We select the best power user apps
+                from a broad range of suppliers and combine them into great deals. These are the highest quality apps
+                from the best publishers, at great prices. </p>
+              <p>
+                Whether you are interested in gaming or graphics design, software development or media production - we
+                have the bundle for you. Each <a href="apps.html">app bundle</a> is designed to compliment the others,
+                delivering you an exciting take on a scene. </p>
+              <p class="ui inverted teal segment">
+                Our guarantee: at the store, we're committed to providing you, with an exceptional quality and
+                reliability. Every application is checked in detail for stability, usability and inter-interoperability.
+                If you are unhappy with any individual app in a bundle we will refund you the full amount for the
+                complete suite, no questions asked. </p>
+              <h2>Favourites</h2>
+              <p> These are some of our favourites </p>
+              <div class="ui circular inverted blue segment">
+                <ul class="ui list">
+                  <div class="item">Hype by Tumult</div>
+                  <div class="item"> Webstorm by Idea</div>
+                  <div class="item">Sublime, by sublimetext.com</div>
+                  <div class="item">Desktop Utility by Sweet Productions</div>
+                </ul>
+              </div>
+              <p> We will be reviewing these favourites in the coming weeks, so please check in again to find out why
+                these are our favourite apps.</p>
+              <p> Why not come in and walk aroud the store? Directions are included below. </p>
+            </article>
+          </main>
+        </div>
+        <div class="ui four wide column">
+          <aside>
+            <div class="ui card">
+              <div class="image">
+                <img src="images/business.png">
+              </div>
+              <div class="content">
+                <a class="header">Business Bundle</a>
+                <div class="meta">
+                  <span class="date">Weekly Deals</span>
+                </div>
+                <div class="description">
+                  This is our most exciting business combination - for just €29.99!
+                </div>
+              </div>
+            </div>
+            <div class="ui card">
+              <div class="image">
+                <img src="images/insanity.jpg">
+              </div>
+              <div class="content">
+                <a class="header">Insanity</a>
+                <div class="meta">
+                  <span class="date">Special Offer</span>
+                </div>
+                <div class="description">
+                  Our premimum creating suite - f for €199.94. So you can save around 84%.
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+      <footer class="ui stacked segment">
+        <p> Contact us at : bundle@store.com, or visit us: <a href="directions.html"> directions </a></p>
+      </footer>
+    </section>
+  </body>
+</html>

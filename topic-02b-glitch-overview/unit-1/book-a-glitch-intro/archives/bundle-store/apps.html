@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bundle APP Store</title>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.4/dist/semantic.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.4/dist/semantic.min.js"></script>
+  </head>
+  <body>
+    <img src="images/banner.png" class="ui centered massive image">
+    <section class="ui container">
+      <header class="ui stacked segment">
+        <h1>Welcome to the App Bundle Store</h1>
+      </header>
+      <div class="ui grid">
+        <div class="ui twelve wide column">
+          <nav>
+            <ul class="ui three item tabular menu">
+              <li id="home" class="ui item"><a href="index.html">Home</a></li>
+              <li id="apps" class="ui item"><a href="apps.html">Apps</a></li>
+              <li id="directions" class="ui item"><a href="directions.html">Directions</a></li>
+            </ul>
+          </nav>
+          <script>
+            document.querySelector("#apps").classList.add("active")
+          </script>
+          <main>
+            <article class="ui basic segment">
+              <div class="ui two cards">
+                <div class="ui card">
+                  <div class="image">
+                    <img src="images/ondesoft.jpg">
+                  </div>
+                  <div class="content">
+                    <a class="header">Frebie</a>
+                    <div class="meta">
+                      <span class="date">Special Offer</span>
+                    </div>
+                    <div class="description">
+                      Here comes the next bundle for march. This time it's macware who publish a bundle. The so called
+                      macware Business Bundle contains 6 apps at a price of only €29.99 instead of €199.94. So you can
+                      save around 84%.
+                    </div>
+                  </div>
+                </div>
+                <div class="ui card">
+                  <div class="image">
+                    <img src="images/ultimate.jpeg">
+                  </div>
+                  <div class="content">
+                    <a class="header">Ultimate Bundle</a>
+                    <div class="meta">
+                      <span class="date">Special Offer</span>
+                    </div>
+                    <div class="description">
+                      With the new €5 Insanity Deals from Bundlehunt you receive every day a highly reduced app for €5
+                      only with savings up to 75%. Not a real bundle but, as there are multiple apps for only €5 each,
+                      one new per day, for the days to come.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </main>
+        </div>
+        <div class="ui four wide column">
+          <aside>
+            <div class="ui card">
+              <div class="image">
+                <img src="images/business.png">
+              </div>
+              <div class="content">
+                <a class="header">Business Bundle</a>
+                <div class="meta">
+                  <span class="date">Weekly Deals</span>
+                </div>
+                <div class="description">
+                  This is our most exciting business combination - for just €29.99!
+                </div>
+              </div>
+            </div>
+            <div class="ui card">
+              <div class="image">
+                <img src="images/insanity.jpg">
+              </div>
+              <div class="content">
+                <a class="header">Insanity</a>
+                <div class="meta">
+                  <span class="date">Special Offer</span>
+                </div>
+                <div class="description">
+                  Our premimum creating suite - f for €199.94. So you can save around 84%.
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+      <footer class="ui stacked segment">
+        <p> Contact us at : bundle@store.com, or visit us: <a href="directions.html"> directions </a></p>
+      </footer>
+    </section>
+  </body>
+</html>
