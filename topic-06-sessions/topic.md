@@ -1,3 +1,3 @@
-6: Sessions
+6: Sessions mit Express.js
 
-Implement user account management using sessions.
+Intelligente Apps, die sich Daten auch merken können entwickeln.

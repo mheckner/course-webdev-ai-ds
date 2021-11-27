@@ -1,3 +1,3 @@
-6: Sessions
+6: Testing & Deployment
 
-Implement user account management using sessions.
+Testen und Hosten!

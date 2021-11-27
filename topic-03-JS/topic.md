@@ -1,3 +1,3 @@
-2b: Glitch Overview
+4: Fortsetzung Javascript
 
-Overview of the module + introduction to the Glitch platform
+Erweiterte Funktionalitäten
