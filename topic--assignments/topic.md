@@ -1,3 +1,3 @@
-00: Assignment Specification
+00: Einleitung zu Medieninformatik
 
-specifications · assignments · grading guidelines · schedule · submission
+WebDev is epic!
