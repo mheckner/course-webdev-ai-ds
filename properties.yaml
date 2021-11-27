@@ -3,7 +3,7 @@ moodle         : https://moodle.wit.ie/course/view.php?id=176625
 youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyBGowQ4W5vu67WR7YiPnsI6
 parent         : course/webdevrocks.netlify.app
 credits        : Markus Heckner, OTH Regensburg
-auth           : 3
+auth           : 0
 ignorepin      : 2125
 icon :
   type: fa-solid:code-branch
