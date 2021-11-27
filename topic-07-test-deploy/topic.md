@@ -1,3 +1,3 @@
-6: Testing & Deployment
+7: Testing & Deployment
 
 Testen und Hosten!

@@ -1,3 +1,3 @@
-4: Fortsetzung Javascript
+3: Fortsetzung Javascript
 
 Erweiterte Funktionalitäten
