@@ -9,7 +9,8 @@ icon :
   type: fa-solid:code-branch
   color: FFD601
 ignore : 
- # - topic--assignments
+ # - topic--intro
+
  # - topic-01-js-intro
  # - topic-02a-arrays
  # - topic-02b-glitch-overview

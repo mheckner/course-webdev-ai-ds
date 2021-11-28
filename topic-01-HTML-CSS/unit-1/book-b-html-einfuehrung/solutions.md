@@ -14,7 +14,6 @@
     <h2> Florian Testnutzer </h2>
     <p>Alter: <b>21</b> </p>
     <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/OOjs_UI_icon_userAvatar.svg/480px-OOjs_UI_icon_userAvatar.svg.png" alt="Avatar">
-    <script src="main.js" ></script> <!-- Hier wird das Javascript file eingebunden -->
     
     <h2>Studium:</h2>
     <p>Studiengang: Künstliche Intelligenz und Data Science</p>
@@ -33,7 +32,8 @@
             </tr>
         </tbody>
     </table>
-  
+    <script src="script.js" ></script> <!-- Hier wird das Javascript file eingebunden -->
+
   </body>
 </html>
 ~~~
