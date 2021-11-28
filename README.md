@@ -3,7 +3,7 @@
 This repository contains the all new web development course for students at the OTH Regensburg studying Artificial Intelligence & Data Science (KIDS)
 
 ---
-###Hosted version:
+### Hosted version:
 
 ~~~shell
     npx tutors-json
