@@ -1,41 +1,39 @@
-# Solutions
+# Beispiellösungen
 
-### Exercise 1:
-
-~~~javascript
-const usersFirstName = prompt('enter first name');
-const usersLastName = prompt('enter first name');
-const usersAge = prompt('enter first name');
-
-const user = {
-  firstName: usersFirstName,
-  lastName: usersLastName,
-  age: usersAge,
-};
-
-console.log(user);
+### About Me Seite:
+~~~html
+<!DOCTYPE html>
+<html> 
+  <head>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width">
+    <title>Florian</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h2> Florian Testnutzer </h2>
+    <p>Alter: <b>21</b> </p>
+    <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/OOjs_UI_icon_userAvatar.svg/480px-OOjs_UI_icon_userAvatar.svg.png" alt="Avatar">
+    <script src="main.js" ></script> <!-- Hier wird das Javascript file eingebunden -->
+    
+    <h2>Studium:</h2>
+    <p>Studiengang: Künstliche Intelligenz und Data Science</p>
+    <p>Der wahrscheinlich zukunftssicherste Studiengang der Informatik</p>
+    
+    <h2>Nice to know:</h2>
+    <table>
+        <tbody>
+            <tr>
+                <td>Herkunft</td>
+                <td>München</td>
+            </tr>
+            <tr>
+                <td>Hobbys</td>
+                <td>Fotografie<br>Mountainbiking</td>
+            </tr>
+        </tbody>
+    </table>
+  
+  </body>
+</html>
 ~~~
-
-### Exercise 2:
-
-~~~javascript
-const usersFirstName = prompt('enter first name');
-const usersLastName = prompt('enter last name');
-const usersAge = prompt('enter your age');
-
-const userGreeting = prompt('enter your greeting');
-
-const user = {
-  firstName: usersFirstName,
-  lastName: usersLastName,
-  age: usersAge,
-  greeting: userGreeting,
-  sayHello() {
-    console.log(this.greeting + ' says ' + this.firstName);
-  },
-};
-
-console.log(user);
-user.sayHello();
-~~~
-
