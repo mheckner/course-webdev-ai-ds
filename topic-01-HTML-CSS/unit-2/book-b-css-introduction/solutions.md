@@ -82,8 +82,9 @@
 ### CSS:
 
 ~~~css
+/* change style for all elements */
 *{
-    /* change font for all elements */
+    
     font-family: "Maven Pro";
     color: dimgrey;
     margin: auto;
@@ -92,6 +93,7 @@
     background: lightgrey;
 }
 
+/* Styling der Überschriften */
 .h2 {
     text-align: center;
     font-size: 30px;
@@ -107,16 +109,13 @@ img{
     font-style: italic;
 }
  /* Styling der Tabelle */
-table, th, td {
+td {
     border: 1px solid black;
     vertical-align: center ;
     text-align: center;
 }
 
-table {
-    border-collapse: collapse;
-}
-
+/* Festlegen von Breite und Höhe */
 .left_col{
     width: 100px;
     height: 50px;
