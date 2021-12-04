@@ -1,4 +1,4 @@
-# Medieninformatik - KI DS
+# Webtechnologien - KI DS
 
 Dieser Kurs ist eine Einleitung in die moderne Webentwicklung mit HTML, CSS und Javascript.
 Mithilfe von NodeJS, Express und Handlebars werden Sie an verschiedenen Projekten arbeiten und das Gelernte final in einem großen Projekt umsetzen.

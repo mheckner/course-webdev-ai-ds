@@ -1,3 +1,3 @@
-00: Einleitung zu Medieninformatik
+00: Einleitung zu Webtechnologien
 
 WebDev is epic!
